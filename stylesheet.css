@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+.skill p {
+  padding-left: 30px;
+}
+
+.skill h3 {
+  color:red;
+}
+
+.profile h2 {
+  font-size:50px;
+  text-align: center;
+}
